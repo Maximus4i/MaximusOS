@@ -4,17 +4,19 @@
 
 ## What it does
 
-A browser-based "OS" themed intro page where I introduce myself to Hackclub Stardance — who I am, what I've built, and why I'm here.
+A browser-based "OS" themed intro page where I introduce myself.
 
 ## Features
 
 - Introduces me
 - Introduces [NAI](https://nai.maximushub.net), my personal AI assistant.
 - Covers my non-existent hobbies and the massive list of things I want to learn
+- Background image with a centered content card
+- Taskbar with a cantaloupe, title, and a live clock
 
 ## How It Works
 
-Just HTML and CSS.
+HTML, CSS, and a tiny bit of JavaScript for the live clock.
 
 ## Credits
 
