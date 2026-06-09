@@ -1,6 +1,6 @@
 # MaximusOS — A personal webOS intro page built to introduce me: Maximus!
 
-![MaximusOS screenshot](./MaximusOS.png)
+![MaximusOS screenshot](./MaximusOS2.png)
 
 ## What it does
 
