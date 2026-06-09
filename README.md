@@ -1,4 +1,4 @@
-# MaximusOS — A personal webOS intro page built for Hackclub Stardance
+# MaximusOS — A personal webOS intro page built to introduce me: Maximus!
 
 ![MaximusOS screenshot](./MaximusOS.png)
 
