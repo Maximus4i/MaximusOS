@@ -16,7 +16,7 @@ A browser-based "OS" themed intro page where I introduce myself.
 
 ## How It Works
 
-HTML, CSS, and a tiny bit of JavaScript for the live clock.
+HTML, CSS, and a bit of JavaScript for the live clock.
 
 ## Credits
 
