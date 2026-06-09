@@ -8,10 +8,9 @@ A browser-based "OS" themed intro page where I introduce myself to Hackclub Star
 
 ## Features
 
-- Introduces me: Maximus, 16, finally actually learning to code thanks to Hackclub
-- Showcases [NAI](https://nai.maximushub.net), my personal AI assistant (from Latin *nasci* — to be born)
-- Honest about my background: most of NAI was AI-written, which is exactly why I want to learn
-- Covers my hobbies and the massive list of things I want to learn
+- Introduces me
+- Introduces [NAI](https://nai.maximushub.net), my personal AI assistant.
+- Covers my non-existent hobbies and the massive list of things I want to learn
 
 ## How It Works
 
